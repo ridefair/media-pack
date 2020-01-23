@@ -1,4 +1,4 @@
-# media-pack
+# Ride Fair Media Pack
 
 ## With these media files you can do the following:
 
